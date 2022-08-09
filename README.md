@@ -1,5 +1,5 @@
 # Computing and Machine Learning for Economics. 
-Part of the curriculum of Cal Poly's Master's of Science In Quantitative Economics. Completed Fall 2021.
+Part of the curriculum of Cal Poly's Master's of Science in Quantitative Economics. Completed Fall 2021.
 
 ## Course Description
 This course provides an introduction to computer programming using Python.
