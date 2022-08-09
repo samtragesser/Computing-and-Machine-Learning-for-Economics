@@ -1,5 +1,5 @@
 # Computing and Machine Learning for Economics. 
-Part of the curriculum of Cal Poly's Master's of Science in Quantitative Economics. Completed Fall 2021.
+This repository includes projects and assignments completed in part of the curriculum of Cal Poly's Master's of Science in Quantitative Economics. Completed Fall 2021.
 
 ## Course Description
 This course provides an introduction to computer programming using Python.
@@ -13,5 +13,3 @@ science and econometrics including data wrangling, web scraping, database
 querying, model selection and cross validation, and implementing selected
 machine learning methods.
 
-### Repository Includes:
-*
