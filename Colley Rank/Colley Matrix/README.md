@@ -1,4 +1,4 @@
-# Colley Matrix Project
+# Colley Matrix Method
 
 ## Overview
 Code to rank college football teams using the Colley matrix method.
